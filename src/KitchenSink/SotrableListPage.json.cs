@@ -63,5 +63,13 @@ namespace KitchenSink
             name.Last = "Rocky";
             name.Id = 5;
         }
+        //void Handle(Input. action)
+        //{
+        //    var p = NameList.Add();
+        //    p.First = "yyy";
+        //    p.Last = "zzz";
+        //    p.Id = 0;
+        //}
+
     }
 }

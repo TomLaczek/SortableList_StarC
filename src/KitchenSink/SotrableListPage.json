@@ -1,13 +1,18 @@
 {
   "Html": "/KitchenSink/SortableListPage.html",
-  
-    "NameList": [
-      {
-        "First": "",
-        "Last": "",
-        "Id$": 0
-        
-      }
+
+  "NameList": [
+    {
+      "First": "",
+      "Last": "",
+      "Id": 0
+    }
+  ],
+  "AddPerson$" :[
+    {
+      "AddPersonName": "",
+      "AddPersonLastName": "",
+      "AddPersonId": 0
+    }
   ]
- 
 }

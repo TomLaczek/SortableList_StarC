@@ -9,17 +9,17 @@ namespace KitchenSink
 {
     public class Person
     {
-        public string FirstName;
-        public string LastName;
-        public int IdPerson;
+        
 
     }
- 
-
 
     [Database]
     class SortableList
     {
+//        public string FirstName;
+   //     public string LastName;
+     //   public int IdPerson;
+
         public static void Main()
         {
 
